@@ -1,13 +1,12 @@
-# introduction
-Hello my name is christopher lee. My background is in finance 
-i want to be an investment bank
-because it is important
+# Introduction
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
-## blah blah balh
+## Description
+my name is christopher lee
 
-**bold** *Ipsum*
+### Table of Contents 
+    Table   Are   Cool   
 
-jhsdjfhks 
 
 
