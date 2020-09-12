@@ -4,4 +4,10 @@ i want to be an investment bank
 because it is important
 
 
-blah blah balh
+## blah blah balh
+
+**bold** *Ipsum*
+
+jhsdjfhks 
+
+
